@@ -27,7 +27,9 @@ Each of the next n lines contains a single string s, a sequence of brackets.
 
 Constraints
 1<= n <= 10 raised to power 3
-1<= |s| <= 10 raised to power 3, where |s| is the lenght of the sequence.
+1<= |s| <= 10 raised to power 3, where |s| is the lenght of the sequence
+
+, where  is the length of the sequence.
 All chracters in the sequences ∈ { {, }, (, ), [, ] }.
 Output Format
 
